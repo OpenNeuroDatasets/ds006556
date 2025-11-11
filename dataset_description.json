@@ -1,26 +1,17 @@
 {
-    "Acknowledgements": "When utilizing this dataset, please formally cite the present article.",
+    "Acknowledgements": "Children's hospital of Nanjing Medical University",
     "Authors": [
-        "Yang Xu",
-        "Yaqi Zhang",
-        "Meijiao Zhu",
-        "Pengcheng Xue ",
-        "Siyu Ma",
-        "Di Yu ",
-        "Liang Hu ",
-        "Yuxi Zhang ",
-        "Wei Peng ",
-        "Jirong Qi ",
-        "Ming Yang ",
-        "Xuming Mo "
+        "TODO:",
+        "First1 Last1",
+        "First2 Last2",
+        "..."
     ],
     "BIDSVersion": "1.8.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds006556.v1.0.2",
+    "DatasetDOI": "TODO",
     "Funding": [
-        "National Natural Science Foundation of China",
-        "Noncommunicable Chronic Diseases-National Science and Technology Major Project",
-        "Jiangsu Provincial key research and development program",
-        "General project of Nanjing Health Commission"
+        "TODO",
+        "GRANT #1",
+        "GRANT #2"
     ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
@@ -28,8 +19,5 @@
     "ReferencesAndLinks": [
         "TODO",
         "List of papers or websites"
-    ],
-    "EthicsApprovals": [
-        "Review Board in Children's Hospital of Nanjing Medical University and the approval number is 202507014-1 and informed consent was acquired"
     ]
 }
